@@ -1,2 +1,0 @@
-# mjar-serverless
-Begin app
